@@ -38,7 +38,7 @@ Voici quelques exemples d'outils que nous pourrions utiliser :
 - [Copilot](https://copilot.microsoft.com/onboarding)
 - [Bing Image Generator](https://www.bing.com/images/create/)
 
-Encore une fois, cette liste est non exhaustive, et il en existe des milliers d'autres. Vous êtes libre d'utiliser les outils que vous voulez si vous êtes à l'aise avec eux.
+Encore une fois, cette liste est non exhaustive, et il en existe bien d'autres. Vous êtes libre d'utiliser les outils que vous voulez si vous êtes à l'aise avec eux.
 
 ### Conseils de réalisation
 
